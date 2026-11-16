@@ -46,7 +46,7 @@ Programming & Development
 
 - Cisco CCNA
 
-- Cloud Networking & AWS
+- Cloud Networking, AWS, and Terraform
 
 - Network Automation
 
